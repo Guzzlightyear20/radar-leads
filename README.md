@@ -1,6 +1,6 @@
 # 📊 Radar de Competencia y Leads V2.1
 
-Herramienta profesional de Inteligencia de Mercado diseñada para analistas y agencias de marketing que buscan identificar oportunidades de digitalización en comercios locales.
+Herramienta profesional de Inteligencia de Mercado diseñada para analistas y agencias de marketing que buscan identificar oportunidades de digitalización en comercios locales. ## URL https://radar-leads-guzz.streamlit.app/
 
 ## 🛠️ Requisitos Previos (Configuración en Google Cloud)
 
