@@ -1,8 +1,8 @@
-📊 Radar de Competencia y Leads V2.1
+#📊 Radar de Competencia y Leads V2.1
 
 Herramienta profesional de Inteligencia de Mercado diseñada para analistas y agencias de marketing que buscan identificar oportunidades de digitalización en comercios locales.
 
-🛠️ Requisitos Previos (Configuración en Google Cloud)
+##🛠️ Requisitos Previos (Configuración en Google Cloud)
 
 Para que esta aplicación funcione, no solo necesitas una API Key, sino que debes tener activadas las siguientes librerías en tu consola de Google Cloud:
 
@@ -13,7 +13,7 @@ Places API (New): (Recomendado) Para mayor velocidad y acceso a datos modernos.
 Billing: Asegúrate de tener una cuenta de facturación activa (Google ofrece $200 USD gratuitos al mes).
 
 
-🌟 Características Principales
+##🌟 Características Principales
 
 Búsqueda de Alta Velocidad: Implementa la nueva Google Places API (v1) para resultados instantáneos.
 
@@ -26,7 +26,7 @@ Exportación Profesional: Descarga directa en formatos Excel (.xlsx) y CSV.
 Doble Modo de Búsqueda: Análisis general por rubro o búsqueda focalizada por nombre.
 
 
-🛠️ Tecnologías
+##🛠️ Tecnologías
 
 Python 3.9+
 
@@ -37,7 +37,7 @@ Pandas (Procesamiento de Datos)
 Google Places API (New)
 
 
-🚀 Instalación y Despliegue
+##🚀 Instalación y Despliegue
 
 Sube los archivos dashboard_streamlit.py y requirements.txt a tu repositorio de GitHub.
 
